@@ -3,7 +3,7 @@
 > - First to score 3 points wins
 > - Exits after Player or computer wins.
 >
-> ### How TO RUN CODE
+> ### How to run program
 > 
 > $ *python rps-main.py*
 >

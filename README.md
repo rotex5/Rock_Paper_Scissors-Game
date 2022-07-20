@@ -5,5 +5,5 @@
 >
 > ### How TO RUN CODE
 > 
-> *python rps-main.py*
+> $ *python rps-main.py*
 >
